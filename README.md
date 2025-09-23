@@ -111,18 +111,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KeremOzcn.KeremOzcn&"  />
+<p><a href="https://www.buymeacoffee.com/@kerem0zcn"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@kerem0zcn" /></a></p><br><br>
 </div>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/@kerem0zcn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@kerem0zcn" /></a></p><br><br>
-
-![snake gif](https://github.com/KeremOzcn/KeremOzcn/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeremOzcn/KeremOzcn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeremOzcn/KeremOzcn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeremOzcn/KeremOzcn/output/github-contribution-grid-snake.svg">
+</picture>
