@@ -116,8 +116,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/KeremOzcn/KeremOzcn/blob/output/github-contribution-grid-snake.gif)
-
 ###
 
 <div align="center">
@@ -126,3 +124,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@kerem0zcn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@kerem0zcn" /></a></p><br><br>
+
+![snake gif](https://github.com/KeremOzcn/KeremOzcn/blob/output/github-contribution-grid-snake.gif)
